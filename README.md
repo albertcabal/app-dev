@@ -2,7 +2,7 @@
 My First Repository
 
 # My Favorite series/movie
-|** Series Name**  | ** Genre ** |** Main Characters |
+|** Series Name**  | ** Genre ** |** Main Characters ** |
 |-|-|-|
 | Naruto | Fantasy anime | Naruto, Sasuke, Sakura, Kakashi |
 
